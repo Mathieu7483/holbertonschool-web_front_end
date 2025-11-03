@@ -284,6 +284,6 @@ a:active {
 }
 
 .container {
-  margin: center;
   width: 960px;
+  justify-content: space-between;
 }
