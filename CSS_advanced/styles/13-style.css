@@ -40,13 +40,13 @@ a {
   color: var(--text-color);
   text-decoration: none;
 }
-a:link{
-  font-style:italic;
+a:link {
+  font-style: italic;
 }
-a:hover{
+a:hover {
 text-decoration: underline;
 }
-a:active{
+a:active {
 background-color: var(--color-light-grey);
 }
 
