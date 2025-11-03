@@ -2,6 +2,7 @@ html {
   scroll-behavior: smooth;
   font-size: 62.5%;
 }
+
 :root {
   --color-primary: #D73953;
   --color-black: #090909;
