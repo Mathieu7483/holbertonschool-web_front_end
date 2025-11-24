@@ -84,11 +84,5 @@ Pour visualiser ou tester un projet spécifique :
 
 **Mathieu**
 
-  * [Lien vers votre profil GitHub]([Votre lien GitHub ici])
-  * [Lien vers votre portfolio ou LinkedIn (Optionnel)]
+[Mathieu GODALIER](https://github.com/Mathieu7483) - Élève en programmation à la Holberton School
 
------
-
-## 📜 Licence
-
-Ce dépôt est distribué sous la **Licence MIT**.
