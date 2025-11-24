@@ -1,8 +1,6 @@
-Mathieu, ce nouveau projet sur le **CSS Avancé** est la suite logique de votre travail sur le HTML sémantique. Ici, l'objectif n'est plus la structure, mais la **présentation et la maintenabilité** de votre code.
-
-L'approche est clairement orientée vers la **standardisation**, l'utilisation des **variables CSS** pour la modularité, et la mise en place d'un **système de grille basé sur `float`** pour le *layout* — une technique fondamentale.
-
-Voici un `README.md` détaillé, insistant sur les points critiques de ce projet.
+\<p align="center"\>
+\<img src="[https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/img/HTML%20Advanced%20Structure.png](https://www.google.com/search?q=https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/img/HTML%2520Advanced%2520Structure.png)"\>
+\</p\>
 
 ---
 
